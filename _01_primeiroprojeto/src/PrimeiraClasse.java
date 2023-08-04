@@ -20,6 +20,8 @@ public class PrimeiraClasse {
         System.out.println(mensagem);
 
         int rating = (int) (2.15 / 2);
+
+
     }
 
 }
